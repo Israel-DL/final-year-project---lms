@@ -16,9 +16,10 @@ The system is designed to enhance the learning experience by providing personali
    git clone https://github.com/Israel-DL/final-year-project---lms.git
 ```
 2. **Install the required packages**:
-<br/>
+
 So there are two files the backend folder and the frontend file.
 Navigate to the backend folder and run the comman below on your terminal
+
 ```bash
    pip install -r requirements.txt
 ```
@@ -27,8 +28,9 @@ then
    flask run
 ```
 3. **Run the development server**:
-4. <br/>
+
 After you've installed the requirements.txt file navigate to the frontend folder and run the command below.
+
 ```bash
    npm i
 ```
